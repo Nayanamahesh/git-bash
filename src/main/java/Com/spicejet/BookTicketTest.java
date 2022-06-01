@@ -15,7 +15,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BookTicketTest {
-
+//comment msg
 		public static void selectDateByJs(WebDriver driver,WebElement ele,String dateVal)
 		{
 			JavascriptExecutor js=((JavascriptExecutor)driver);
